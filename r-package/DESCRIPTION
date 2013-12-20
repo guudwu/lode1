@@ -1,0 +1,10 @@
+Package: lode1
+Type: Package
+Title: Parameter Estimation in Differential Equations
+Version: 0.1
+Date: 2013-12-19
+Author: GuuD WU
+Maintainer: GuuD WU<guuuuud@gmail.com>
+Description: Solving inverse problem of order-1 linear ode system.
+License: GPLv2.
+Depends: permute, pracma, minqa, minpack.lm
